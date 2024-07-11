@@ -2,3 +2,4 @@
 a. install Git bash
 2. Belajar GitHub
 3. Belajar Laravel
+4. Belajar Dbeaver
