@@ -1,0 +1,4 @@
+1. Belajar Git
+a. install Git bash
+2. Belajar GitHub
+3. Belajar Laravel
